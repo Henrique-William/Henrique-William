@@ -2,7 +2,8 @@
 
 
 
-
-<img  alt="Night Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width=500px height="360px" align="center"/>
+<!--
+<img  alt="Night Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width=500px height="360px" align="center"/>  
+-->
 
 
