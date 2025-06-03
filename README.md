@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Henrique William</h1>
 <ul>
-  <li> 😁 I'm really like WebDev</li>
-  <li> 🧠 I'm studying JS</li>
+  <li> 😁 I'm really like Web Dev</li>
+  <li> 🧠 I'm studying JS and Java</li>
   <li> 🔥 I like to test my knowledge and get challenged</li>
 </ul>
 
